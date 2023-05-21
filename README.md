@@ -5,7 +5,7 @@ Requerimientos:
 
 Tener un navegador web para correr el archivo HTML.
 
-
+Github page: [GitHub Pages](https://ianrickmers.github.io/tarea-3-frontend/)
 
 Estructura del trabajo:
 
@@ -29,3 +29,5 @@ Herramientas utilizadas:
 
 Se ocupa grid para el layout, además de ocupar flexbox, BEM y mediaqueries. 
 Se utiliza Sass para los estilos de la página
+
+Comando para compilar con sass: sass styles/scss/main.scss:styles/css/style.css
