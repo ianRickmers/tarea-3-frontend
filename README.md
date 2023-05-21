@@ -30,4 +30,4 @@ Herramientas utilizadas:
 Se ocupa grid para el layout, además de ocupar flexbox, BEM y mediaqueries. 
 Se utiliza Sass para los estilos de la página
 
-Comando para compilar con sass: sass styles/scss/main.scss:styles/css/style.css
+Comando para compilar con sass: sass styles/scss/main.scss:styles/css/styles.css
