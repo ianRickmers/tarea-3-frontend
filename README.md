@@ -5,7 +5,7 @@ Requerimientos:
 
 Tener un navegador web para correr el archivo HTML.
 
-Github page: [GitHub Pages](https://ianrickmers.github.io/tarea-3-frontend/)
+Github page: [Página de gatos](https://ianrickmers.github.io/tarea-3-frontend/)
 
 Estructura del trabajo:
 
