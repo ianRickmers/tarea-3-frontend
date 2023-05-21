@@ -1,0 +1,9 @@
+@use '../variables/variables';
+
+.layout{
+    display: grid;
+    grid-template: repeat(3,1fr) / 1fr;
+}
+.header{
+    box-shadow: variables.$shadow;
+}
