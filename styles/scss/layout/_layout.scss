@@ -4,6 +4,25 @@
     display: grid;
     grid-template: auto auto auto / 1fr;
 }
+
 .header{
     box-shadow: variables.$shadow;
+}
+
+
+@media screen and (min-width:768px){
+    .footer{
+        border-top: 1px solid #b3bdc5;
+        display:flex;
+        flex-wrap: nowrap;
+        align-items: baseline;
+    }
+}
+
+@media screen and (min-width:1200px){
+    .main{
+        &__carousel-img{
+            width: 1200px;
+        }
+    }
 }
